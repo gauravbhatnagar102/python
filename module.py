@@ -225,7 +225,7 @@
 # for i in range(4):
 #     exp=int(input('Enter the materials cost for one month:'))
 #     total+=exp
-# print(total)
+print(total)
 # if total<=budget:
 #     print('You have made your monthly expenditure very well!!')
 # elif total>budget:
